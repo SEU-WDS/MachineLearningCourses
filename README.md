@@ -21,7 +21,7 @@
 
 第二期(:hourglass_flowing_sand: 暑期放假一周，尚未开始)
 
-- :smile: 8月15日  [聚类的问题定义、评估方法与原型聚类(划分聚类)] (https://github.com/SEU-WDS/MachineLearningCourses/blob/master/%E7%AC%AC%E4%BA%8C%E6%9C%9F2018%E6%9A%91%E6%9C%9F/%E8%81%9A%E7%B1%BB%E9%97%AE%E9%A2%98_%E9%AB%98%E9%B9%8F.pptx)
+- :smile: 8月15日  [聚类的问题定义、评估方法与原型聚类(划分聚类)](https://github.com/SEU-WDS/MachineLearningCourses/blob/master/%E7%AC%AC%E4%BA%8C%E6%9C%9F2018%E6%9A%91%E6%9C%9F/%E8%81%9A%E7%B1%BB%E9%97%AE%E9%A2%98_%E9%AB%98%E9%B9%8F.pptx)
 - :smile: 8月17日  密度聚类 | 层次聚类 | 其他聚类方法 
 - :smile: 8月22日  主题模型
 - :smile: 8月24日  社团发现
